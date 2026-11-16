@@ -1,16 +1,11 @@
-# Shreya Jain — Developer Portfolio
-Responsive personal portfolio built with HTML5, CSS3 and vanilla JavaScript.
+# Shreya Jain — Portfolio
 
-## Publish
-Upload the complete `portfolio` folder to the `main` branch of `jainshreya0821/fwd53`.
-Expected URL: https://jainshreya0821.github.io/fwd53/portfolio/
-
-## Before publishing
-- Replace `YOUR-EMAIL@example.com` in `index.html` with your email address.
-- Replace the LinkedIn placeholder URL with your actual profile.
-- Review the About, skills and project descriptions for accuracy.
+This is the updated single-page portfolio. The internship availability section is included in the same `index.html` page, just above Contact.
 
 ## Files
-- `index.html`: page content and structure
-- `style.css`: styling and responsive layout
-- `script.js`: mobile menu, scroll reveal, active navigation, current year and back-to-top button
+- `index.html` — all portfolio sections, including internship availability
+- `style.css` — responsive styling
+- `script.js` — mobile navigation, scroll effects, active navigation, and back-to-top button
+
+## Publish
+Upload these three files together to the same folder/branch where your existing portfolio is hosted. Keep the filenames unchanged.
