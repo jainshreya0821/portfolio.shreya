@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // Reveal cards and sections as they enter the viewport.
-  const revealItems = document.querySelectorAll(".section, .cards article, .project, .timeline article, .contact .wrap");
+  const revealItems = document.querySelectorAll(".section, .cards article, .project, .timeline article, .contact .wrap, .internship-panel");
   revealItems.forEach(item => item.classList.add("reveal"));
   if ("IntersectionObserver" in window) {
     const observer = new IntersectionObserver((entries, obs) => {
